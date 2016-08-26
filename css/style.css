@@ -75,7 +75,7 @@ a:focus {
 .light { font-weight: lighter }
 .logo { height: 60px }
 
-/* JM -- change this for header band and 
+/* JM -- change this for header band and
    main text colour */
 #header {
     background: url(../img/2.jpg);
@@ -103,19 +103,19 @@ nav.footer {
 
 
 #about {
-    color: #fff;    
-    height: auto;   
+    color: #fff;
+    height: auto;
     text-align: center;
     /*background-color: #82D7F6; */
-    font-size: 18px; 
+    font-size: 18px;
     /*background-image: linear-gradient(0deg, #555, #000);*/
     /*background-image: url(img/slides/1.jpg);*/
     background-color: #222;
 }
 
 #news_and_tweets {
-    color: #fff;    
-    height: auto;   
+    color: #fff;
+    height: auto;
     text-align: left;
     /*background-color: #829DF6;  */
     /*background: url(../img/2.jpg);*/
